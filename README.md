@@ -41,6 +41,7 @@ You can:
 
 ## 📁 Project Structure
 
+```text
 truevox/
 ├── test.py                 # Main Streamlit app
 ├── model/                  # Trained LSTM model files
@@ -48,6 +49,7 @@ truevox/
 ├── deepfake_result.png    # Sample output/result image
 ├── requirements.txt        # Python dependencies
 └── README.md
+```
 
 ## 🚀 Getting Started
 1. Clone the repository
