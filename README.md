@@ -24,13 +24,15 @@ Visual display of model accuracy and loss over training epochs
 Clean, minimal UI built with Streamlit
 
 ## 🛠️ Tech Stack
-Layer                 Tools
-1.Language        -> Python
-2.Web Framework   -> Streamlit
-3.Deep Learning   -> LSTM (Keras / TensorFlow)
-4.Audio Feature   -> ExtractionMFCC (Librosa)
-5.Data Processing -> NumPy, Pandas
-6.Visualization   -> Matplotlib
+
+| Layer / Category        | Tools / Technologies Used              |
+|------------------------|----------------------------------------|
+| Language               | Python                                 |
+| Web Framework          | Streamlit                              |
+| Deep Learning          | LSTM (Keras / TensorFlow)              |
+| Audio Feature Extract  | MFCC (Librosa)                         |
+| Data Processing        | NumPy, Pandas                          |
+| Visualization          | Matplotlib                             |
 
 ## Dataset
 The dataset used in this project contains real and synthetic audio samples (~360MB).
