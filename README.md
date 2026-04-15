@@ -41,7 +41,6 @@ You can:
 
 ## 📁 Project Structure
 
-```text
 truevox/
 ├── test.py                 # Main Streamlit app
 ├── model/                  # Trained LSTM model files
