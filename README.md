@@ -9,7 +9,7 @@ audio features (MFCC).
 
 ## 🖥️ Demo
 ![Result](deepfake_result.png) 
-Upload a .wav audio file → Click Predict → Get instant Real/Fake classification with model performance charts.
+#Upload a .wav audio file → Click Predict → Get instant Real/Fake classification with model performance charts.
 
 ## ⚙️ Features
 Upload and play WAV audio files directly in the browser
