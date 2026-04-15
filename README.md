@@ -8,7 +8,7 @@ TRUE Vox addresses this by analyzing audio signals and classifying them as real 
 audio features (MFCC).
 
 ## 🖥️ Demo
-## Demo
+
 
 ![Demo](deepfake_result.png)
 
@@ -40,12 +40,14 @@ You can:
 - Or use publicly available deepfake audio datasets (e.g., ASVspoof)
 
 ## 📁 Project Structure
+
+```text
 truevox/
-│
-├── test.py               # Main Streamlit app
-├── model/                # Trained LSTM model files
-├── logo.png              # App logo
-├── requirements.txt      # Python dependencies
+├── test.py                 # Main Streamlit app
+├── model/                  # Trained LSTM model files
+├── logo.png                # App logo
+├── deepfake_result.png    # Sample output/result image
+├── requirements.txt        # Python dependencies
 └── README.md
 
 ## 🚀 Getting Started
